@@ -1,6 +1,9 @@
 
-img {
 
 
+main img {
 
+max-width: 200%;
+position:absolute;
+margin:auto;
 }

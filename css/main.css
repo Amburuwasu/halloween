@@ -1,9 +1,10 @@
+body{
+  margin:0;
+  width: 100%;
+  overflow-x: hidden;
+}
 
-
-
-main img {
-
-max-width: 200%;
-position:absolute;
-margin:auto;
+body img {
+  width: 150%;
+  position: absolute;
 }

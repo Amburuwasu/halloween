@@ -1,0 +1,48 @@
+
+@font-face {
+  font-family: "OpenSans-Semibold";
+  src: url('fonts/OpenSans-Semibold.ttf');
+}
+
+@font-face {
+  font-family: "Krabuler_Regular";
+  src: url('fonts/RF Krabuler Regular.ttf');
+}
+
+@font-face {
+  	font-family: "OpenSans-Light";
+    src: url('fonts/OpenSans-Light.ttf');
+  }
+
+@font-face {
+  font-family: "LithosPro-Regular";
+  src: url('fonts/LithosPro-Regular.otf');
+}
+
+@font-face {
+  font-family: "youngfrankexpandital";
+  src: url('fonts/youngfrankexpandital.ttf');
+}
+
+/*
+ :root {
+	--gouttiere:		2.5rem;
+	--beige:				#ecd5b6;
+	--dore:					#9F8653;
+	--dore-sombre:	#7A6740;
+	--brun:					#311810;
+	--brun-sombre:	#20100a;
+
+	--metal-or:			linear-gradient(90deg, rgb(236,213,182) 0%, rgb(210,176,109) 2.25%, rgb(159,134,84) 5%, rgb(210,176,109) 12.5%, rgb(236,213,182) 35%, rgb(210,176,109) 77.5%, rgb(159,134,84) 100%);
+}
+
+background-image: var(--metal-or);
+
+@font-face {
+	font-family: 'Titrage';
+	src: url('../fonts/varelaround-regular-webfont.woff2') format('woff2'),
+		 url('../fonts/varelaround-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+*/

@@ -1,0 +1,113 @@
+/*FONTS*/
+
+
+@font-face {
+    font-family: 'young_frankenstein_expandedIt';
+    src: url('../fonts/woff/youngfrankexpandital-webfont.woff2') format('woff2'),
+         url('../fonts/woff/youngfrankexpandital-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'rf_krabulerregular';
+    src: url('../fonts/woff/rf_krabuler_regular-webfont.woff2') format('woff2'),
+         url('../fonts/woff/rf_krabuler_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'rf_krabulerregular';
+    src: url('../fonts/woff/rf_krabuler_regular-webfont.woff2') format('woff2'),
+         url('../fonts/woff/rf_krabuler_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'open_sanssemibold';
+    src: url('../fonts/woff/opensans-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/woff/opensans-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'open_sanslight';
+    src: url('../fonts/woff/opensans-light-webfont.woff2') format('woff2'),
+         url('../fonts/woff/opensans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+body {
+
+  margin:0px;
+  width:100%;
+  background-color: black;
+
+  color:red;
+
+}
+
+
+header figure{
+
+  margin:0;
+  width: 100%;
+
+  overflow-x: hidden;
+
+}
+
+
+header figure img {
+
+  width: 150%;
+  margin-left: -25%;
+
+}
+
+
+
+main::before {
+
+  content:'';  /* Bouton pour démarrer*/
+  background-image: url(../images/png/Bois.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  width: 100vw;
+  height: 100vw;
+  position: absolute;
+  transform:translateY(-5%) rotate(90deg);
+
+  overflow-x: hidden;
+
+}
+
+main article{
+
+    font-family: 'rf_krabulerregular';
+    transform:translateY(140%)
+}
